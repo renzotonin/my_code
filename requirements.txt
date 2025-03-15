@@ -1,4 +1,2 @@
 shiny
-shiny.express
-shinywidgets
 ipyleaflet
